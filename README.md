@@ -20,7 +20,7 @@ The AdventureWorks Dashboard is a data visualization tool built to analyze key m
 
 ## Page 1: Overview<a name="page-1-overview"></a>
 
-![General Overview](Dashboard_Images/1.png)
+![Page1](Dashboard_Images/1.png)
 
 ### Features
 
@@ -38,10 +38,68 @@ The AdventureWorks Dashboard is a data visualization tool built to analyze key m
 3. Check the cards for monthly insights and top products.
 4. Utilize the slicer panel to filter data by year and continent.
 
+### Tooltip Screenshot:
+
+![Page1Tooltip](Dashboard_Images/Tooltip.png)
+
+## Page 2: Geographic Insights<a name="page-2-geographic-insights"></a>
+
+![Page2](Dashboard_Images/2.png)
+
+### Features
+1. Map chart displaying total orders with continent slicer
+2. Bubbles on the map with a total orders tooltip
+
+### Usage
+1. Navigate to Page 2.
+2. Explore the map chart and use the continent slicer to focus on specific regions.
+3. Hover over bubbles to view total orders for each location.
 
 
+## Page 3: Product Details<a name="page-3-product-details"></a>
 
+![Page3](Dashboard_Images/3.png)
 
+### Features
+1. Product details with drill-through feature
+2. Gauge cards for monthly orders, revenue, and profit compared to target
+3. Line chart with profit trending and parameter for price adjustment
+4. Line chart for return, revenue, profit, returns, and return rate trending with slicer
+
+### Usage
+1. Access detailed product insights through the drill-through feature.
+2. Check gauge cards for monthly performance against targets.
+3. Explore line charts for profit trending and various metrics with the slicer.
+
+## Page 4: Customer Details<a name="page-4-customer-details"></a>
+
+![Page4](Dashboard_Images/4.png)
+
+### Features
+1. Cards displaying the number of customers and revenue per customer
+2. Line chart of total customers and revenue per customer with slicer
+3. Pie charts showing orders by income level and occupation
+4. Table of top 100 customers with full names, number of orders, and revenue
+4. Slicer for date and note filter for the top customer with the most revenue in 2022
+
+### Usage
+1. Visit Page 4 to delve into customer-related insights.
+2. Explore cards, charts, and tables for a comprehensive view of customer details.
+3. Use slicers to filter data by date and note filter for specific customer insights.
+
+## Page 5: Tree Composition<a name="page-5-tree-composition"></a>
+
+![Page5](Dashboard_Images/5.png)
+
+### Features
+1. Tree composition analyzing total orders by category, subcategory, product name, and product cost
+   
+### Usage
+
+1. Head to Page 5 for a hierarchical view of total orders.
+2. Explore the tree to analyze orders at different levels of categorization.
+
+Feel free to explore each page and utilize the dashboard's functionalities to gain valuable insights into the AdventureWorks company's performance. If you encounter any issues or have suggestions for improvement, please refer to the Issues section on the GitHub repository.
 
 
 
