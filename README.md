@@ -18,6 +18,8 @@ Welcome to the AdventureWorks Dashboard, a comprehensive data visualization tool
 
 The AdventureWorks Dashboard is a data visualization tool built to analyze key metrics and trends for the AdventureWorks company. It consists of five pages, each focusing on different aspects of the company's performance.
 
+- **Link to Dashboard in Action:** [Explore the Dashboard](https://shorturl.at/EGY05)
+
 ## Page 1: Overview<a name="page-1-overview"></a>
 
 ![Page1](Dashboard_Images/1.png)
